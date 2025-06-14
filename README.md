@@ -1,5 +1,5 @@
 # 💫 About Me:
-👌I'm currently working on mobile apps <br>and some websites 🕸️<br>3rd student 👩‍💻 computer science .<br>personal projects are for fun 🧔
+👌I'm currently working on mobile apps <br>and some websites 🕸️<br>4rd student 👩‍💻 computer science .<br>personal projects are for fun 🧔
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=abdeval&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdeval&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeval&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdeval&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdeval&limit=5&theme=dark&combine_all_yearly_contributions=true)
